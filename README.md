@@ -20,14 +20,10 @@ A full-stack **Task Management Application** built with:
 
 ## ** Steps for Running the Application**
 
-### **1️ Database Setup (PostgreSQL)**
-- **Install PostgreSQL** on your local machine:  
-  -  [Download PostgreSQL](https://www.postgresql.org/download/)
+### **1️ Database (PostgreSQL)**
+- **Install PostgreSQL** on your local machine 
 
-- **Start PostgreSQL Service**
-  - **Windows (Run as Administrator in Command Prompt):**
-    ```sh
-    net start postgresql-x64-14
+
     ```
 
 - **Create the Database & Tables**
@@ -39,6 +35,9 @@ A full-stack **Task Management Application** built with:
     ```sql
     -- Create database
     CREATE DATABASE task_management;
+
+    -- Switch to task_management database
+    \c task_management;
 
     -- Create users table
     CREATE TABLE users (
