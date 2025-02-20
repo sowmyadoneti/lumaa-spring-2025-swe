@@ -21,10 +21,6 @@ A full-stack **Task Management Application** built with:
 ## ** Steps for Running the Application**
 
 ### **1️ Database (PostgreSQL)**
-- **Install PostgreSQL** on your local machine 
-
-
-    ```
 
 - **Create the Database & Tables**
   - Open **PostgreSQL CLI (`psql`)**:
