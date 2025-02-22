@@ -6,7 +6,7 @@ A full-stack **Task Management Application** built with:
 - **Authentication**: JWT (JSON Web Token)
 - **Security**: Bcrypt password hashing
 
- **Live Demo Video**:  
+ **Live Demo Video**:  https://drive.google.com/file/d/1hZ4rbF6nuGj_wRIH83qzvLbpl2F2m4rl/view?usp=sharing
 
 ---
 
@@ -110,4 +110,9 @@ cd /frontend
   
 **Salary Expectation :**
 **$20/hr**
+
+**Contributor :**
+
+   Sowmya Doneti
+ 
    
